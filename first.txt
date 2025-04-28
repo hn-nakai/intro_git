@@ -1,3 +1,4 @@
 hoge
 2行目追記
 add commit
+diff
